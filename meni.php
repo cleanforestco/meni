@@ -4,7 +4,7 @@
 * Plugin URI: http://wordpress.org/plugins/meni/
 * Description: Meni For the WordPress Admin Bar
 * Author: Noam Eppel, CleanForest.co
-* Version: 0.0.4
+* Version: 0.4
 * Author URI: http://cleanforest.co/
 * Text Domain: meni
 * License: GPLv2 or later
